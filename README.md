@@ -1,1 +1,2 @@
 # diplomProject
+# ситуация
